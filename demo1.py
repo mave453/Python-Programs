@@ -11,3 +11,5 @@ welcome to python programming language
 >>> c=a+b
 >>> print("the sum =",c)
 the sum = 15
+#python is a high level programming language
+#it is easy to learn and use
